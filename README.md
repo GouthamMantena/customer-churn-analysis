@@ -37,6 +37,14 @@ Key visualizations were created to understand churn behaviour
 - Churn by Contract Type
 - Feature Importance
 
+![Churn Distribution](images/churn_distribution.png)
+
+![Churn by Contract Type](images/churn_by_contract.png)
+
+![Feature Importance](images/feature_importance.png)
+
+
+
 **Machine Learning Models:**
 Two models were used for churn prediction:
 - Logistic Regression
