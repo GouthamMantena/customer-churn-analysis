@@ -61,11 +61,34 @@ Key insights include:
 - Higher monthly charges slightly increase churn probability
 - Lower satisfaction scores strongly correlate with churn
 
+**Project Structure:**
+```
+customer-churn-analysis
+│
+├── data
+│   ├── raw_data
+│   └── processed
+│
+├── notebooks
+│   └── customer_churn_analysis.ipynb
+│
+├── images
+│   └── visualizations
+│
+├── dashboard
+│   └── churn_dashboard.twbx
+│
+└── README.md
+```
+
 **Businees Insights:**
 - Contract type is a strong predictore of churn
 - Customer satisfaction significantly impacts retention
 - Early customer lifecycle is the highest churn risk period
 - Retaining customers increases long-term revenue
+
+
+
 
 
 
