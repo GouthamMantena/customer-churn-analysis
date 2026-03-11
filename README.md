@@ -36,6 +36,7 @@ Key visualizations were created to understand churn behaviour
 - Churn Distribution
 - Churn by Contract Type
 - Feature Importance
+- Churn Dashboard
 
 ![Churn Distribution](images/churn_distribution.png)
 
@@ -43,6 +44,7 @@ Key visualizations were created to understand churn behaviour
 
 ![Feature Importance](images/feature_importance.png)
 
+![Churn Dashboard](images/churn_dashboard.png)
 
 
 **Machine Learning Models:**
