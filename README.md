@@ -73,7 +73,9 @@ Baseline (always predict "No Churn"): 73.5% accuracy. Top predictors: tenure, nu
 
 #  Tableau Dashboard
 
-![Dashboard](images/dashboard.png)
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/goutham.mantena/viz/Customer_churn_analysis_17781846819260/Dashboard1)**
+
+[![Dashboard](images/dashboard.png)](https://public.tableau.com/app/profile/goutham.mantena/viz/Customer_churn_analysis_17781846819260/Dashboard1)
 
 ---
 
