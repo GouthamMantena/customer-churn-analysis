@@ -57,6 +57,8 @@ Baseline (always predict "No Churn"): 73.5% accuracy. Top predictors: tenure, nu
 
 `SatisfactionScore` perfectly separates churners in this dataset: every customer scoring 1 or 2 churned, and no customer scoring 4 or 5 did. It was recorded alongside the churn outcome, so it would not be available when predicting churn ahead of time. Including it inflated accuracy to about 93%. I excluded it from the model, along with `ChurnScore`, `ChurnCategory`, `ChurnReason`, and `CustomerStatus`.
 
+![Churn rate by satisfaction score](images/churn_rate_by_satisfaction.png)
+
 ---
 
 #  Key Insights
